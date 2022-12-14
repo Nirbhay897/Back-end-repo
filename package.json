@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "keywords": [],
-  "author": "",
+  "author": "Nirbhay",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
